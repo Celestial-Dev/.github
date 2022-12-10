@@ -3,11 +3,15 @@ We are a network dedicated to helping you bypass internet censorship, help keep 
 
 ## Projects
 [Celestial](https://thecelestial.org/)
+
 Celestial Docs: Coming Soon...
 [Celestial Gaming](https://play.thecelestial.org/)
+
 [Celestial Status](https://status.thecelestial.org/)
+
 [Mercury](https://github.com/Celestial-Dev/Mercury)
 
 ## Socials
-[Discord](ttps://discord.thecelestial.org)
+[Discord](https://discord.thecelestial.org)
+
 [TikTok](https://www.tiktok.com/@thecelestial.org)
