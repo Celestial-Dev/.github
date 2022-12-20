@@ -1,5 +1,5 @@
 # Welcome to Celestial!
-We are a network dedicated to helping you bypass internet censorship, help keep you private on the internet, and to make entertaining games for you play along with more plans in the future., and/or nsfw
+We are a network dedicated to helping you bypass internet censorship, help keep you private on the internet, and to make entertaining games for you play along with more plans in the future.
 
 ## Projects
 [Celestial](https://thecelestial.org/)
